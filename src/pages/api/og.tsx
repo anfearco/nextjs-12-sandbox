@@ -10,15 +10,14 @@ export default function OG() {
       <div
         style={{
           fontSize: 128,
-          background: "white",
+          color: "#f9f8f6",
           width: "100%",
           height: "100%",
           display: "flex",
           textAlign: "center",
           alignItems: "center",
           justifyContent: "center",
-          //green gradient  backgournd color
-          backgroundColor: "white"
+          background: "linear-gradient(120deg, #342e2a 0%, #425c76 100%)"
         }}
       >
         anfear.co
